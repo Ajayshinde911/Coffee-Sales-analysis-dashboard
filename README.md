@@ -55,6 +55,9 @@ This project analyzes retail customer data to uncover shopping trends, product p
 4. Use slicers to filter by year, country, day, coffee type, and roast type.
 
 ---
+## 📊 Excel Dashboard Preview
+
+![Coffee Sales Dashboard](dashboard.png)
 
 ⭐ *If you like this project, feel free to star the repository!*  
 
