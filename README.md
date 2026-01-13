@@ -1,7 +1,7 @@
-# 🛍️ Customer Shopping Behaviour Analysis
+# 🛍️ Coffee Sales Dashboard
 
 ## 1️⃣ Project Title
-**Customer Shopping Behaviour Analysis**
+**Coffee Sales Analyis using Excel**
 
 ---
 
