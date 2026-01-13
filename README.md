@@ -1,4 +1,4 @@
-# 🛍️ Coffee Sales Dashboard
+#  Coffee Sales Dashboard
 
 ## 1️⃣ Project Title
 **Coffee Sales Analyis using Excel**
